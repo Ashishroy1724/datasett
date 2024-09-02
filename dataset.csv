@@ -1,0 +1,11 @@
+ID,Age,Income,City,Purchase,Gender,Email
+1,25,50000,New York,Yes,Male,john.doe@example.com
+2,30,60000,Los Angeles,No,Female,jane.smith@example.com
+3,22,40000,Chicago,Yes,Female,anna.brown@example.com
+4,NaN,70000,New York,No,Male,sam.jones@example.com
+5,45,NaN,San Francisco,Yes,Female,emily.davis@example.com
+6,35,65000,Chicago,No,Male,mike.wilson@example.com
+7,28,55000,Los Angeles,Yes,Female,sarah.lee@example.com
+8,40,72000,San Francisco,No,Male,alex.miller@example.com
+9,50,80000,New York,Yes,Female,patricia.terry@example.com
+10,33,62000,Chicago,No,Male,david.martin@example.com
